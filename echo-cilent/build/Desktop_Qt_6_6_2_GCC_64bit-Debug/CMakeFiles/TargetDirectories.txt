@@ -1,0 +1,7 @@
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/echo-cilent.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/kali/Desktop/lacciel/echo-client-server/echo-cilent/build/Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
